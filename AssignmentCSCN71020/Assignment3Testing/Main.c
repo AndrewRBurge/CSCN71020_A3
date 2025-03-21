@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "IsPrime.h"
 
-//test
+
 
 // Andrew Burge assignment 3 
 
