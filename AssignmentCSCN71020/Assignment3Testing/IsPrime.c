@@ -48,6 +48,7 @@ int isPrime(int input) {
 
 	}
 
+	//prints if primed
 	if (isprime == 1) {
 
 		printf("is Prime");
