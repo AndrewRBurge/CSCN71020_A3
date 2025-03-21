@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\ConProgramming\AssignmentCSCN71020\Assignment3Testing\Main.c(41,1): warning C4716: 'TestnonPrimeNumber': must return a value
+C:\ConProgramming\AssignmentCSCN71020\Assignment3Testing\Main.c(24,1): warning C4716: 'TestPrimeNumberOutput': must return a value
+  Assignment3Testing.vcxproj -> C:\ConProgramming\AssignmentCSCN71020\x64\Debug\Assignment3Testing.exe
