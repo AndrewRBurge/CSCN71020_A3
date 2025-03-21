@@ -60,7 +60,7 @@ int main(void) {
 	TestnonPrimeNumber(6, 6);
 	TestnonPrimeNumber(8, 7);
 
-	//test edge cases
+	//test edgecases
 	TestnonPrimeNumber(0, 8);
 	TestnonPrimeNumber(1, 9);
 	TestnonPrimeNumber(10, 10);

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\IsPrime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|solutionrelative:Assignment3Testing\\IsPrime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|solutionrelative:Assignment3Testing\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\IsPrime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|solutionrelative:Assignment3Testing\\IsPrime.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|solutionrelative:Assignment3Testing\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\IsPrime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F407C4A2-F75D-4B8E-85C5-0D36886B7BB6}|Assignment3Testing\\Assignment3Testing.vcxproj|solutionrelative:Assignment3Testing\\IsPrime.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "IsPrime.c",
               "DocumentMoniker": "C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\IsPrime.c",
               "RelativeDocumentMoniker": "Assignment3Testing\\IsPrime.c",
               "ToolTip": "C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\IsPrime.c",
               "RelativeToolTip": "Assignment3Testing\\IsPrime.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-03-21T02:44:19.517Z",
               "EditorCaption": ""
@@ -47,19 +47,21 @@
               "RelativeToolTip": "Assignment3Testing\\IsPrime.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-21T02:44:16.523Z"
+              "WhenOpened": "2025-03-21T02:44:16.523Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Main.c",
               "DocumentMoniker": "C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\Main.c",
               "RelativeDocumentMoniker": "Assignment3Testing\\Main.c",
               "ToolTip": "C:\\ConProgramming\\AssignmentCSCN71020\\CSCN71020_A3\\AssignmentCSCN71020\\Assignment3Testing\\Main.c",
               "RelativeToolTip": "Assignment3Testing\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAD4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-21T02:43:01.241Z"
+              "WhenOpened": "2025-03-21T02:43:01.241Z",
+              "EditorCaption": ""
             }
           ]
         }
