@@ -3,7 +3,7 @@
 #include "IsPrime.h"
 
 
-
+//check if number is prime number
 
 int isPrime(int input) {
 	int isprime = 0;
